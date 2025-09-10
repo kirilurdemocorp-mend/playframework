@@ -9,7 +9,7 @@ import sbt.Keys.parallelExecution
 
 import pl.project13.scala.sbt.JmhPlugin.generateJmhSourcesAndResources
 import BuildSettings._
-import Dependencies._
+import Dependencies._ 
 import Generators._
 import VersionHelper._
 
